@@ -25,4 +25,4 @@ The author of this file cannot be held responsible or liable for any damages tha
 Feel free to join [Luhify's Optimization Hub](https://discord.gg/ZhZ8eJZc42). The server was designed for those who are interested in tweaking, or are already tweakers. Here you can learn how to optimize your PC in many ways. Everything in the server is **free**. Nothing is paid or gatekeeped.
 
 # 📜 License
-Luhify's Performance Batch is Licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit [LICENSE](https://github.com/ancel1x/Ancels-Performance-Batch/blob/main/LICENSE)
+Luhify's Performance Batch is Licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit [LICENSE](https://github.com/luhify/Luhifys-Performance-Batch/blob/main/LICENSE)
